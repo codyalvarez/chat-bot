@@ -1,0 +1,33 @@
+# Functionality 
+# - typing effect/delay fun
+
+# Conversational maturity 
+    # It can also identify the intent of a question — what 
+    # is needed — to provide an accurate first response, 
+    # and also propose options to confirm or clarify intent.
+
+# Omni-Capable
+    # Competent in every area; capable of doing everything.
+
+# Integrates with CRM
+    # can be integrated with critical systems and orchestrate 
+    # workflows inside and outside of the CRM. It can handle 
+    # real-time action as routine as a password change, 
+    # all the way through a complex multistep workflow spanning multiple applications.
+
+# Emotionally intelligent 
+    # can infer customer personality traits and understand sentiment and tone during an 
+    # interaction to deliver a personalized experience, or escalate to a live agent when necessary. 
+
+# Free to explore
+    # can reach, consume and process vast amounts of data — both structured and unstructured — 
+    # to surface insights from virtually any source in order to gather relevant data to solve 
+    # customer issues quickly.
+
+# Autonomous reasoning
+    # can perform complex reasoning without human intervention. For example, a great service 
+    # chatbot should be able to infer solutions based on relevant case histories.
+
+# Pre-trained
+    # is pre-trained to understand brand-specific or industry-specific knowledge and terms. 
+    # Even better, it’s pre-configured to resolve common customer requests of a particular industry. 
